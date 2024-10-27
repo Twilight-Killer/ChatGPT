@@ -1,4 +1,4 @@
-pyrogram
 tgcrypto
 python-dotenv
-git+https://github.com/lunaticsm/duck_chat
+git+https://github.com/Twilight-Killer/duck_chat.git
+git+https://github.com/Twilight-Killer/pyrogram.git
